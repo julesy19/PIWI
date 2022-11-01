@@ -18,5 +18,18 @@ thanks
     Click "Edit"
     Scroll down to "Code flow guard (CFG)" and uncheck "Override system settings"
     Delete all files from C:\Users<name>\AppData\Roaming\Docker
-    Start vmcompute from powershell "net start vmcompute"
+    Start vmcompute from powershell "net start vmcompute"git 
+
+
+    jlfjkfjvjvkj;k;fk;g
+    lfkgléfklbgklègklèfkgèlfkf
+    ,lg;l;fllg;flf;gl;;lf
+    flfgl;lgl;ldgf,gè;,bè,fg,tèe;gt;
+    ;,ml;fdmlgdglerè;l;èlerèlgre,r;v,eè;
+    ,l,elèlrè,èv;,er;g;elrg;eèrè;erllèg,èl,relè,,
+    erh;leeerlrglrlegèergler;lg;erlg;eer;lg;ele;rhle;r;èet
+    erhlerrrrrrrrrreerheèlhlelrlr
+    
+
+
 
